@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bb877717165800ddfd692109",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-fa9907ae5c62d46c121cf454",
+  "title": "青柠",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fa9907ae5c62d46c121cf454",
+      "a": "青柠",
+      "b": "稳定全球clash加速器",
+      "entity": "青柠",
+      "brand": "青柠",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "eab5dcb9d5b734a1d7166b4deddec2e9759e72abeee13e0d047d2e680b10b2f8",
+      "content": {
+        "primary_entity": "青柠",
+        "keyword1": "青柠",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择 Clash 客户端，再导入青柠订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "青柠让全球访问更顺手，选一款套餐开始配置订阅。",
+          "AI_CLOSING_TITLE": "选好套餐，连接日常",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 到 1000GB 月流量，支持 3 至 20 台设备同时在线。基础版适合个人轻量使用，旗舰版加入 IPLC 专线游戏加速优化与全节点流媒体解锁，团队版面向多设备协作场景。客户端按设备选择 Clash 版本，导入订阅后即可按需切换节点池，年付方案约相当于十个月费用。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量与订阅周期展开选择。",
+          "AI_FEATURES_TITLE": "青柠特点",
+          "AI_FEATURE_TEXT_1": "基础版提供 100GB 月流量与 3 台设备，适合个人日常浏览与轻量流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版 300GB 月流量支持 5 台设备，含 IPLC 专线与全节点流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版 1000GB 月流量可 20 台设备在线，支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "三档套餐",
+          "AI_FEATURE_TITLE_2": "旗舰优选",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "青柠提供三档海外加速套餐，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版与团队版面向流媒体、游戏和团队协作场景，配置订阅后按客户端文档导入即可使用。",
+          "AI_HERO_SUBTITLE": "青柠套餐助你稳定访问全球网络",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15，年付 ¥150",
+          "AI_HIGHLIGHT_2": "旗舰版月付 ¥35，年付 ¥350",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85，年付 ¥850",
+          "AI_PLANS_INTRO": "基础版与旗舰版适合个人，团队版面向多设备协作，按流量和在线设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量与在线设备数，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流媒体与专线适配要求，确认符合日常使用场景。",
+          "AI_STEP_TEXT_3": "按设备对应的 Clash 客户端文档导入青柠订阅，完成后即可切换节点。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "青柠连接全球节点",
+          "AI_FAQ_ANSWER_1": "基础版 100GB，旗舰版 300GB，团队版 1000GB，按月重置。流量用尽前可在套餐页升级，差价按剩余周期折算。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。路由器若整机共享订阅，通常只计一台设备。",
+          "AI_FAQ_ANSWER_3": "旗舰版支持全节点原生流媒体解锁，并带 IPLC 专线游戏加速优化；基础版提供基础流媒体解锁。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，适合长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "在套餐页选择版本并完成付款，随后按所用客户端文档导入订阅链接即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "各套餐每月流量是多少？",
+          "AI_FAQ_QUESTION_2": "套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "哪些套餐支持流媒体与游戏加速？",
+          "AI_FAQ_QUESTION_4": "年付和月付怎么选？",
+          "AI_FAQ_QUESTION_5": "购买后如何开始使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "liuliangguangjc.com",
+    "host": "liuliangguangjc.com"
+  },
+  "file_hashes": {
+    "index.html": "f321cd32859e62148afd2d49e8fc2dbddd7ce97297a3661fd51c903e7a7d73d9",
+    "sitemap.xml": "db167b718ab05e27826e27d817defd0bfac15653b831a95be71bc4b1feb41b2a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ef003a1f485a877ca19596aaa5ed807c9e0487de875b2f76b04c687d439c5de1",
+    "robots.txt": "9068160f7b9bd189417326918a8e393d98f1a9e6faf864b09a4a27b8e2984931",
+    "e34b548f48d2dbdc47cd6adf3ec81d74.txt": "09735990bd8ecabdf4dba88f04e3ea0c84e45abced0b08e5ee3acec5a9e80846"
+  },
+  "revision": "6c0c69126db0c66b320be9a361b6a7af809418bd38f12438fb21e039644d7de3"
+}
